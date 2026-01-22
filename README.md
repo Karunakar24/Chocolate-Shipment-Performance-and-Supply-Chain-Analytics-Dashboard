@@ -1,4 +1,4 @@
-# 🍫 Chocolate Shipment Performance & Supply Chain Analytics Dashboard
+# Chocolate Shipment Performance & Supply Chain Analytics Dashboard
 
 ## 📌 Project Overview
 
