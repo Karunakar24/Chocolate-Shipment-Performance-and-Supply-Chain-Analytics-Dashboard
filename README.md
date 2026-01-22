@@ -53,7 +53,8 @@ This dashboard addresses these challenges by transforming transactional shipment
 
 ### 🔹 Executive Business Intelligence Dashboard
 
-<img width="1366" height="768" alt="Business_Intelligence_Dashboard" src="https://github.com/user-attachments/assets/71a2f217-e45d-4152-825b-4ad868d5103c" />
+<img width="940" height="530" alt="Business_Intelligence_Dashboard" src="https://github.com/user-attachments/assets/0da446ac-1291-48df-b927-59027dd7c73c" />
+
 
 
 **Purpose:**
