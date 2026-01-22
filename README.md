@@ -211,15 +211,6 @@ This dashboard addresses these challenges by transforming transactional shipment
 
 ---
 
-## 📌 Ideal Use Cases
-
-- Data Analyst / BI Analyst portfolios
-- Executive reporting demonstrations
-- Supply chain analytics case studies
-- Interview walkthrough discussions
-
----
-
 ## ⭐ Final Note
 
 This project is intentionally designed to showcase:
