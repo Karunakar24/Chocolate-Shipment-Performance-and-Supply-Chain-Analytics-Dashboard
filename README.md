@@ -49,7 +49,7 @@ This dashboard addresses these challenges by transforming transactional shipment
 
 ## ⭐ Executive Business Intelligence Dashboard (Primary View)
 
-> **This is the most important page of the project and the recommended starting point for reviewers.**
+> **This is the most important page of the project.**
 
 ### 🔹 Executive Business Intelligence Dashboard
 
