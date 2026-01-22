@@ -52,7 +52,6 @@ This dashboard addresses these challenges by transforming transactional shipment
 > **This is the most important page of the project and the recommended starting point for reviewers.**
 
 ### 🔹 Executive Business Intelligence Dashboard
-*(Include this image at the very top when showcasing visuals)*
 
 <img width="1366" height="768" alt="Business_Intelligence_Dashboard" src="https://github.com/user-attachments/assets/71a2f217-e45d-4152-825b-4ad868d5103c" />
 
@@ -217,14 +216,6 @@ This dashboard addresses these challenges by transforming transactional shipment
 - Executive reporting demonstrations
 - Supply chain analytics case studies
 - Interview walkthrough discussions
-
----
-
-## 📬 Author
-
-**Karunakar Nuvvula**  
-Data Science Graduate | Data Analytics & Business Intelligence  
-Power BI • Data Visualization • Business Analytics
 
 ---
 
